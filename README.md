@@ -32,8 +32,8 @@ github.com/minsung-phy
   Bachelor Student , GPA: 3.85 / 4.5 
 
 ### Research Interests
-- Deep learning
 - Data structure
+- Deep learning
 
 ### Research Experiences
 - Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&Dlaboratory, Korea (May. 2022 ~ Present)
