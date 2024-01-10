@@ -1,4 +1,4 @@
-Minsung Lee
+### Minsung Lee
 
 Education
 - Mar. 2022 ~ Present : Hanyang University, Department of Applied Physics, Bachelor Student, GPA: 3.85 / 4.5 (Ansan, Korea)
