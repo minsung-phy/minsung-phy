@@ -1,10 +1,4 @@
-###Minsung Lee
-
-Undergraduate Student
-Hanyang University
-55, Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Republic of Korea
-chocomin0211@hanyang.ac.kr
-+82) 01092653517
+Minsung Lee
 
 Education
 - Mar. 2022 ~ Present : Hanyang University, Department of Applied Physics, Bachelor Student, GPA: 3.85 / 4.5 (Ansan, Korea)
@@ -24,7 +18,7 @@ Awardsand Honors
 Projects
 - AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
 
-Skillsand Techniques
+Skills and Techniques
 - C, Python, Java, Shell script, Assembly
 - Linux
 - Tensorflow, Keras
