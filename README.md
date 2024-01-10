@@ -19,8 +19,17 @@ github.com/minsung-phy
 ---
 
 ### Education
-- Mar. 2022 ~ Present : Hanyang University, Department of Applied Physics, Bachelor Student, GPA: 3.85 / 4.5 (Ansan, Korea)
-- Mar. 2022 ~ Present : Hanyang University, Division of Computer Science, Bachelor Student , GPA: 3.85 / 4.5 (Ansan, Korea)
+- Mar. 2022 ~ Present
+  
+  Hanyang University, Department of Applied Physics
+
+  Bachelor Student, GPA: 3.85 / 4.5
+  
+- Mar. 2022 ~ Present
+
+  Hanyang University, Division of Computer Science
+
+  Bachelor Student , GPA: 3.85 / 4.5 
 
 ### Research Interests
 - Deep learning
