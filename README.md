@@ -41,6 +41,8 @@ github.com/minsung-phy
 ### Awardsand Honors
 - SNK Campus Town Urban Entertainment Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
 - Du-Dream Youth Creative Ideas Contest, Top prize, Dongguk University, Korea (Feb. 2019)
+- College of Science and Convergence Technology Autonomous Scholarship, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
+
 
 ### Projects
 - AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
