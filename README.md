@@ -32,6 +32,7 @@ github.com/minsung-phy
   Bachelor Student , GPA: 3.85 / 4.5 
 
 ### Research Interests
+- System programming
 - Data structure
 - Deep learning
 
