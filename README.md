@@ -38,7 +38,7 @@ github.com/minsung-phy
 
 ### Research Experiences
 - Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2023)
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (Dec. 2023 ~ Present)
+- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (Dec. 2023 ~ Feb. 2024)
 
 ### Awards and Honors
 - SNK Campus Town Urban Entertainment Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
