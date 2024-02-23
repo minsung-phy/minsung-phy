@@ -38,12 +38,15 @@ github.com/minsung-phy
 
 ### Research Experiences
 - Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2023)
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (Dec. 2023 ~ Feb. 2024)
+- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (Dec. 2023 ~ Present)
+- Undergraduate Research Student at Programming Syetems Lab, College of Computing, Hanyang University, Korea (Mar. 2024 ~ Present)
+
 
 ### Awards and Honors
 - SNK Campus Town Urban Entertainment Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
 - Du-Dream Youth Creative Ideas Contest, Top prize, Dongguk University, Korea (Feb. 2019)
 - College of Science and Convergence Technology Autonomous Scholarship, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
+- Scholarship for academin excellence, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
 - Hanyang Brain (for academic excellence), Hanyang University, Korea (Feb. 2024)
   
 ### Projects
