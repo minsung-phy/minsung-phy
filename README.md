@@ -23,18 +23,19 @@ github.com/minsung-phy
   
   Hanyang University, Department of Applied Physics
 
-  Bachelor Student, GPA: 3.85 / 4.5
+  Bachelor Student, GPA: 3.94 / 4.5
   
 - Mar. 2022 ~ Present
 
   Hanyang University, Division of Computer Science
 
-  Bachelor Student , GPA: 3.85 / 4.5 
+  Bachelor Student , GPA: 3.94 / 4.5 
 
 ### Research Interests
 - System programming
 - Data structure
-- Deep learning
+- Program synthesis
+- Computer architecture
 
 ### Research Experiences
 - Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2023)
@@ -53,6 +54,6 @@ github.com/minsung-phy
 - AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
 
 ### Skills and Techniques
-- C, Python, Java, Shell script, Assembly
+- C, OCaml, Python, Shell script, Assembly
 - Linux
 - Tensorflow, Keras
