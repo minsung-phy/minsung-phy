@@ -23,13 +23,13 @@ github.com/minsung-phy
   
   Hanyang University, Department of Applied Physics
 
-  Bachelor Student, GPA: 3.94 / 4.5
+  Bachelor Student, GPA: 3.94 / 4.5, Major GPA: 4.26/4.5
   
 - Mar. 2022 ~ Present
 
   Hanyang University, Division of Computer Science
 
-  Bachelor Student , GPA: 3.94 / 4.5 
+  Bachelor Student , GPA: 3.94 / 4.5, Major GPA: 4.33/4.5
 
 ### Research Interests
 - System programming
