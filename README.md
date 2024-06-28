@@ -38,8 +38,7 @@ github.com/minsung-phy
 - Computer architecture
 
 ### Research Experiences
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2023)
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (Dec. 2023 ~ Present)
+- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Present)
 - Undergraduate Research Student at Programming Syetems Lab, College of Computing, Hanyang University, Korea (Mar. 2024 ~ Present)
 
 
