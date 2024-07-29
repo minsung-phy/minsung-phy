@@ -48,6 +48,7 @@ github.com/minsung-phy
 - College of Science and Convergence Technology Autonomous Scholarship, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
 - Scholarship for academin excellence, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
 - Hanyang Brain (for academic excellence), Hanyang University, Korea (Feb. 2024)
+- Scholarship for academin excellence, Hanyang University, Korea (Mar. 2024 ~ Jun. 2024)
   
 ### Projects
 - AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
