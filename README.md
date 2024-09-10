@@ -23,27 +23,28 @@ github.com/minsung-phy
   
   Hanyang University, Department of Applied Physics
 
-  Bachelor Student, GPA: 3.94 / 4.5, Major GPA: 4.26/4.5
+  Bachelor Student, GPA: 3.94 / 4.5, Major GPA: 4.28/4.5
   
 - Mar. 2022 ~ Present
 
   Hanyang University, Division of Computer Science
 
-  Bachelor Student , GPA: 3.94 / 4.5, Major GPA: 4.33/4.5
+  Bachelor Student , GPA: 3.94 / 4.5, Major GPA: 4.28/4.5
 
 ### Research Interests
-- System programming
-- Data structure
 - Program synthesis
 - Computer architecture
+- Change data capture
+- Earley parser
+- Operating system
 
 ### Research Experiences
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Present)
+- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2024)
 - Undergraduate Research Student at Programming Syetems Lab, College of Computing, Hanyang University, Korea (Mar. 2024 ~ Present)
 
 
 ### Awards and Honors
-- SNK Campus Town Urban Entertainment Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
+- SNK Campus Town Dosirac Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
 - Du-Dream Youth Creative Ideas Contest, Top prize, Dongguk University, Korea (Feb. 2019)
 - College of Science and Convergence Technology Autonomous Scholarship, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
 - Scholarship for academin excellence, Hanyang University, Korea (Sep. 2023 ~ Dec. 2023)
@@ -52,8 +53,12 @@ github.com/minsung-phy
   
 ### Projects
 - AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
-
+- navie MBA Deobfuscator, Programming Systems Lab., College of Computing, Hanyang University, Korea / Full development (Mar. 2024 ~ Jun. 2024)
+Syntactically Correct Code Generator, Programming Systems Lab., College of Computing, Hanyang University, Korea / Memoization function development (Jun. 2024 ~ Jul. 2024)
+- Code Generator Framework with Type Correctness Guarantee Version1, Programming Systems Lab., College of Computing, Hanyang University, Korea / Memoization function development (Jul. 2024 ~ Aug. 2024)
+- Code Generator Framework with Type Correctness Guarantee Version2, Programming Systems Lab., College of Computing, Hanyang University, Korea / Memoization function development (Sep. 2024 ~ Present)
+- Web platform to facilitate domestic and international adoptions of stray dogs, Hanyang University, Korea / Project Leader (Sep. 2024 ~ Present)
+  
 ### Skills and Techniques
-- C, OCaml, Python, Shell script, Assembly
+- C, OCaml, Python, Java, Shell script, Assembly
 - Linux
-- Tensorflow, Keras
