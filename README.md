@@ -35,8 +35,12 @@ github.com/minsung-phy
 - Program synthesis
 - Computer architecture
 - Change data capture
-- Earley parser
 - Operating system
+- DataBase
+
+### Conferences
+1. Sooyoung Cha, Mijung Kim, "한국정보과학회 소프트웨어공학 소사이어티", 제 12회 소프트웨어공학 단기 전문 강좌, Seoul, Korea (Aug. 2024)
+2. "한국정보과학회 프로그래밍언어연구회", SIGPL Summer School 2024, Suwon, Korea (Aug. 2024)
 
 ### Research Experiences
 - Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2024)
