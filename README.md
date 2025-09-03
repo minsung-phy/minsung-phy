@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Minsung Lee  
 
-🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University  
+🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University ERICA
 🔬 Research Interests: Obfuscation | MTE | Operating Systems | Memoization | CDC  
 
 📫 chocomin0211@hanyang.ac.kr | 🌐 [GitHub](https://github.com/minsung-phy)  
@@ -15,7 +15,7 @@
 ---
 
 ## 🎓 Education
-- **Hanyang University Erica** (2022 ~ Present)  
+- **Hanyang University ERICA** (2022 ~ Present)  
   - B.S. in Applied Physics & Computer Science  
   - GPA: 4.0 / 4.5 (Major: 4.21 / 4.5)
 
