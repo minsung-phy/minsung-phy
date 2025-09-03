@@ -39,8 +39,8 @@
 ## 🔬 Research Experiences
 - **Research Intern**, Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D Laboratory (May. 2022 ~ Aug. 2024)  
 - **Undergraduate Research Student**, Programming Systems Lab, Hanyang University (Mar. 2024 ~ Oct. 2024)  
-- **Research Student**, System Security Lab, Hanyang University (Dec. 2024 ~ Feb. 2025)  
-- **Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Present)  
+- **Undergraduate Research Student**, System Security Lab, Hanyang University (Dec. 2024 ~ Feb. 2025)  
+- **Undergraduate Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Present)  
 
 ---
 
