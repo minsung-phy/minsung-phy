@@ -1,68 +1,83 @@
 <div align="center">
-  
-# Minsung Lee
 
-Undergraduate Student
+# 👋 Hi, I'm Minsung Lee  
 
-Hanyang University
+🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University  
+🔬 Research Interests: Obfuscation | MTE | Operating Systems | Memoization | CDC  
 
-55, Hanyangdaehak-ro, Sangnok-gu, Ansan-si, Gyeonggi-do, Republic of Korea
+📫 chocomin0211@hanyang.ac.kr | 🌐 [GitHub](https://github.com/minsung-phy)  
 
-chocomin0211@hanyang.ac.kr
-
-+82) 01092653517
-
-github.com/minsung-phy
+![GitHub followers](https://img.shields.io/github/followers/minsung-phy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/minsung-phy?style=social)
 
 </div>
 
 ---
 
-### Education
-- Mar. 2022 ~ Present
-  
-  Hanyang University, Department of Applied Physics
+## 🎓 Education
+- **Hanyang University Erica** (2022 ~ Present)  
+  - B.S. in Applied Physics & Computer Science  
+  - GPA: 4.0 / 4.5 (Major: 4.21 / 4.5)
 
-  Bachelor Student, GPA: 3.97 / 4.5, Major GPA: 4.22/4.5
-  
-- Mar. 2022 ~ Present
+---
 
-  Hanyang University, Division of Computer Science
+## 🔍 Research Interests
+- Obfuscation  
+- Memory Tagging Extension (MTE)  
+- Operating Systems  
+- Memoization  
+- Change Data Capture (CDC)  
 
-  Bachelor Student , GPA: 3.97 / 4.5, Major GPA: 4.22/4.5
+---
 
-### Research Interests
-- Operating system
-- Memory Tagging Extension
-- Hypervisor
-- System Security
-- Database
+## 🎤 Conferences
+- Sooyoung Cha, Mijung Kim, *한국정보과학회 소프트웨어공학 소사이어티*, 제 12회 소프트웨어공학 단기 전문 강좌, Seoul, Korea (Aug. 2024)  
+- *한국정보과학회 프로그래밍언어연구회*, SIGPL Summer School 2024, Suwon, Korea (Aug. 2024)  
 
-### Conferences
-1. Sooyoung Cha, Mijung Kim, "한국정보과학회 소프트웨어공학 소사이어티", 제 12회 소프트웨어공학 단기 전문 강좌, Seoul, Korea (Aug. 2024)
-2. "한국정보과학회 프로그래밍언어연구회", SIGPL Summer School 2024, Suwon, Korea (Aug. 2024)
+---
 
-### Research Experiences
-- Research Intern at Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D laboratory, Korea (May. 2022 ~ Aug. 2024)
-- Undergraduate Research Student at Programming Syetems Lab, College of Computing, Hanyang University, Korea (Mar. 2024 ~ Oct. 2024)
-- Research Student at Mathematical Physics & Acoustics Lab, Department of Applied Physics, Hanyang University, Korea (Sep. 2024 ~ Dec. 2024)
-- Research Student at System Security Lab, Department of Computer Science, Hanyang University, Korea (Dec. 2024 ~ Feb. 2025)
+## 🔬 Research Experiences
+- **Research Intern**, Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D Laboratory (May. 2022 ~ Aug. 2024)  
+- **Undergraduate Research Student**, Programming Systems Lab, Hanyang University (Mar. 2024 ~ Oct. 2024)  
+- **Research Student**, System Security Lab, Hanyang University (Dec. 2024 ~ Feb. 2025)  
+- **Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Present)  
 
-### Awards and Honors
-- SNK Campus Town Dosirac Idea Contest, Excellence prize, Kwangwoon University, Korea (Dec. 2017)
-- Du-Dream Youth Creative Ideas Contest, Top prize, Dongguk University, Korea (Feb. 2019)
-- College of Science and Convergence Technology Autonomous Scholarship, Hanyang University, Korea (Dec. 2023)
-- Scholarship for academin excellence, Hanyang University, Korea (Dec. 2023)
-- Hanyang Brain (for academic excellence), Hanyang University, Korea (Feb. 2024)
-- Scholarship for academin excellence, Hanyang University, Korea (Jun. 2024)
-  
-### Projects
-- AIoT hackathon, Seoul, Korea (Oct. 2023 ~ Oct. 2023)
-- Syntactically Correct Code Generator, Programming Systems Lab., College of Computing, Hanyang University, Korea (Jun. 2024 ~ Jul. 2024)
-- Code Generator Framework with Type Correctness Guarantee, Programming Systems Lab., College of Computing, Hanyang University, Korea (Jul. 2024 ~ Oct. 2024)
-- Web platform to facilitate domestic and international adoptions of stray dogs, Hanyang University, Korea / Project Leader (Sep. 2024 ~ Present)
-- Semi-Random Tagging : Improving MTE Detection without Additional Overhead, Hanyang University SSLab, Korea / Reviewed related papers and devised the core idea of semi-random tagging (Dec. 2024 ~ Feb. 2025)
-- 
-### Skills and Techniques
-- C, Python, Java, OCaml, Shell script, Assembly
-- Linux
+---
+
+## 🏅 Awards & Honors
+- Excellence Prize, SNK Campus Town Dosirac Idea Contest, Kwangwoon Univ. (Dec. 2017)  
+- Top Prize, Du-Dream Youth Creative Ideas Contest, Dongguk Univ. (Feb. 2019)  
+- Academic Excellence Scholarship, Hanyang Univ. (Dec. 2023, Jun. 2024)  
+- College of Science and Convergence Technology Autonomous Scholarship, Hanyang Univ. (Dec. 2023)  
+- Hanyang Brain (Academic Excellence) Tuition Reduction, Hanyang Univ. ERICA (Feb. 2024)  
+- College Leadership Scholarship, Hanyang Univ. ERICA (Jun. 2025)  
+- Encouragement Award (Top Prize Category), 2025 ERICA Software-Up 7th SW Startup Hackathon, Hanyang Univ. ERICA (Jun. 2025)  
+
+---
+
+## 🚀 Projects
+- [AIoT Hackathon](https://github.com/minsung-phy/2023-Seoul-AIoT-Hackathon)  
+  *Built an IoT platform prototype for smart-city applications.*  
+
+- **Syntactically Correct Code Generator** (Jun. 2024 ~ Jul. 2024)  
+  *Researched and implemented code generation techniques ensuring syntactic correctness.*  
+
+- **Code Generator Framework with Type Correctness Guarantee** (Jul. 2024 ~ Oct. 2024)  
+  *Developed a framework ensuring type correctness in automatically generated code.*  
+
+- [HopeTail: Stray Dog Adoption Platform](https://github.com/HopeTail-Teamproject) (Sep. 2024 ~ Jun. 2025, *Project Leader*)  
+  *Web platform to connect domestic & international dog adoption, with multilingual support.*  
+
+- **Semi-Random Tagging: Improving MTE Detection without Additional Overhead** (Dec. 2024 ~ Feb. 2025)  
+  *Reviewed related papers and devised the core idea of semi-random tagging.*  
+
+---
+
+## 🛠 Skills
+![C](https://img.shields.io/badge/-C-blue?logo=c) 
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python) 
+![Java](https://img.shields.io/badge/-Java-orange?logo=java)  
+![OCaml](https://img.shields.io/badge/-OCaml-lightgrey?logo=ocaml) 
+![Shell](https://img.shields.io/badge/-Shell-black?logo=gnu-bash) 
+![Assembly](https://img.shields.io/badge/-Assembly-lightblue)  
+![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)  
