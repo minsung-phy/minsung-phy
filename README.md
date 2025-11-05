@@ -23,11 +23,9 @@
 ---
 
 ## 🔍 Research Interests
-- Obfuscation  
-- Memory Tagging Extension (MTE)  
-- Operating Systems  
-- Memoization  
-- Change Data Capture (CDC)  
+- Logic and Algorithms for Software Verification
+- Modeling and Verification of Autonomous Cyber-Physical Agents
+- Automated Analysis of Safety-Critical AI Software
 
 ---
 
@@ -41,7 +39,7 @@
 - **Research Intern**, Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D Laboratory (May. 2022 ~ Aug. 2024)  
 - **Undergraduate Research Student**, Programming Systems Lab, Hanyang University (Mar. 2024 ~ Oct. 2024)  
 - **Undergraduate Research Student**, System Security Lab, Hanyang University (Dec. 2024 ~ Feb. 2025)  
-- **Undergraduate Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Present)  
+- **Undergraduate Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Oct. 2025) 
 
 ---
 
