@@ -4,11 +4,7 @@
 
 🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University ERICA
 
-🔬 Research Interests: 
-- Formal Semantics of Programming Languages
-- Software Verification & Model Checking
-- Rewriting Logic & Automated Reasoning
-- Mechanized Specification & Tooling
+🔬 Research Interests: Formal Semantics of Programming Languages | Software Verification & Model Checking | Rewriting Logic & Automated Reasoning | Mechanized Specification & Tooling
 
 📫 chocomin0211@hanyang.ac.kr | 🌐 [GitHub](https://github.com/minsung-phy)  
 
