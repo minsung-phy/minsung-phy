@@ -4,8 +4,6 @@
 
 🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University ERICA
 
-🔬 Research Interests: Formal Semantics of Programming Languages | Software Verification & Model Checking | Rewriting Logic & Automated Reasoning | Mechanized Specification & Tooling
-
 📫 chocomin0211@hanyang.ac.kr | 🌐 [GitHub](https://github.com/minsung-phy)  
 
 ![GitHub followers](https://img.shields.io/github/followers/minsung-phy?style=social)
@@ -16,22 +14,17 @@
 ---
 
 ## 🎓 Education
-- **Hanyang University ERICA** (2022 ~ Present)  
+- **Hanyang University ERICA** (2022.03 ~ 2026.08)  
   - B.S. in Applied Physics & Computer Science  
-  - GPA: 4.0 / 4.5 (Major: 4.21 / 4.5)
+  - GPA: 3.99 / 4.5 (Major: 4.18 / 4.5)
 
 ---
 
 ## 🔍 Research Interests
-- Logic and Algorithms for Software Verification
-- Modeling and Verification of Autonomous Cyber-Physical Agents
-- Automated Analysis of Safety-Critical AI Software
-
----
-
-## 🎤 Conferences
-- Sooyoung Cha, Mijung Kim, *한국정보과학회 소프트웨어공학 소사이어티*, 제 12회 소프트웨어공학 단기 전문 강좌, Seoul, Korea (Aug. 2024)  
-- *한국정보과학회 프로그래밍언어연구회*, SIGPL Summer School 2024, Suwon, Korea (Aug. 2024)  
+- Formal Semantics of Programming Languages
+- Software Verification & Model Checking
+- Rewriting Logic & Automated Reasoning
+- Mechanized Specification & Tooling
 
 ---
 
@@ -44,8 +37,6 @@
 ---
 
 ## 🏅 Awards & Honors
-- Excellence Prize, SNK Campus Town Dosirac Idea Contest, Kwangwoon Univ. (Dec. 2017)  
-- Top Prize, Du-Dream Youth Creative Ideas Contest, Dongguk Univ. (Feb. 2019)  
 - Academic Excellence Scholarship, Hanyang Univ. (Dec. 2023, Jun. 2024)  
 - College of Science and Convergence Technology Autonomous Scholarship, Hanyang Univ. (Dec. 2023)  
 - Hanyang Brain (Academic Excellence) Tuition Reduction, Hanyang Univ. ERICA (Feb. 2024)  
