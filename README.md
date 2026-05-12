@@ -1,73 +1,44 @@
 <div align="center">
+  <h1>👋 Hi, I'm Minsung Lee</h1>
+  <p>
+    <b>M.S./Ph.D. Student in Computer Science @ POSTECH</b><br>
+    📫 <a href="mailto:minsunglee.cs@gmail.com">minsunglee.cs@gmail.com</a> | 🌐 <a href="https://github.com/minsung-phy">GitHub</a>
+  </p>
 
-# 👋 Hi, I'm Minsung Lee  
-
-🎓 Undergraduate Student in **Applied Physics & Computer Science** at Hanyang University ERICA
-
-📫 chocomin0211@hanyang.ac.kr | 🌐 [GitHub](https://github.com/minsung-phy)  
-
-![GitHub followers](https://img.shields.io/github/followers/minsung-phy?style=social)
-![GitHub stars](https://img.shields.io/github/stars/minsung-phy?style=social)
-
+  <a href="https://github.com/minsung-phy">
+    <img src="https://img.shields.io/github/followers/minsung-phy?style=social" alt="GitHub followers">
+  </a>
 </div>
 
----
+<br>
 
-## 🎓 Education
-- **Hanyang University ERICA** (2022.03 ~ 2026.08)  
-  - B.S. in Applied Physics & Computer Science  
-  - GPA: 3.99 / 4.5 (Major: 4.18 / 4.5)
+## 🧑‍🔬 About Me
 
----
+I am an M.S./Ph.D. student at the **[Software Verification Lab (SVLab)](https://sv.postech.ac.kr/) at POSTECH**, advised by Prof. Kyungmin Bae. 
 
-## 🔍 Research Interests
-- Formal Semantics of Programming Languages
-- Software Verification & Model Checking
-- Rewriting Logic & Automated Reasoning
-- Mechanized Specification & Tooling
+My research broadly focuses on **Formal Semantics**, **Software Verification**, and **Automated Reasoning**. I am deeply interested in building mechanized specifications and developing robust tooling to ensure the correctness of complex computing systems.
 
 ---
 
-## 🔬 Research Experiences
-- **Research Intern**, Quality Management & Technical Support Team, Silcroadsoft Co., Ltd. R&D Laboratory (May. 2022 ~ Aug. 2024)  
-- **Undergraduate Research Student**, Programming Systems Lab, Hanyang University (Mar. 2024 ~ Oct. 2024)  
-- **Undergraduate Research Student**, System Security Lab, Hanyang University (Dec. 2024 ~ Feb. 2025)  
-- **Undergraduate Research Student**, System Security Lab, Hanyang University (Jun. 2025 ~ Oct. 2025) 
+## 💼 Experience
+
+- **Research Intern**, Quality Management & Technical Support Team, Silcroadsoft (May. 2022 ~ Aug. 2024)
 
 ---
 
-## 🏅 Awards & Honors
-- Academic Excellence Scholarship, Hanyang Univ. (Dec. 2023, Jun. 2024)  
-- College of Science and Convergence Technology Autonomous Scholarship, Hanyang Univ. (Dec. 2023)  
-- Hanyang Brain (Academic Excellence) Tuition Reduction, Hanyang Univ. ERICA (Feb. 2024)  
-- College Leadership Scholarship, Hanyang Univ. ERICA (Jun. 2025)  
-- Encouragement Award (Top Prize Category), 2025 ERICA Software-Up 7th SW Startup Hackathon, Hanyang Univ. ERICA (Jun. 2025)  
+## 🔬 Current Research & Selected Projects
+
+- **Spec2Maude** *(Ongoing)*
+  - Developing an automated translator for WebAssembly SpecTec formal specifications into Maude algebraic specifications based on rewriting logic.
+- **HopeTail: Global Stray Dog Adoption Platform** (Sep. 2024 ~ Jun. 2025)
+  - Led the development of a multilingual web platform connecting domestic and international dog adoptions.
 
 ---
 
-## 🚀 Projects
-- [AIoT Hackathon](https://github.com/minsung-phy/2023-Seoul-AIoT-Hackathon)  
-  *Built an IoT platform prototype for smart-city applications.*  
+## 🛠 Tech Stack
 
-- **Syntactically Correct Code Generator** (Jun. 2024 ~ Jul. 2024)  
-  *Researched and implemented code generation techniques ensuring syntactic correctness.*  
+**Languages & Tools:**  
+`OCaml` `Maude` `C`
 
-- **Code Generator Framework with Type Correctness Guarantee** (Jul. 2024 ~ Oct. 2024)  
-  *Developed a framework ensuring type correctness in automatically generated code.*  
-
-- [HopeTail: Stray Dog Adoption Platform](https://github.com/HopeTail-Teamproject) (Sep. 2024 ~ Jun. 2025, *Project Leader*)  
-  *Web platform to connect domestic & international dog adoption, with multilingual support.*  
-
-- **Semi-Random Tagging: Improving MTE Detection without Additional Overhead** (Dec. 2024 ~ Feb. 2025)  
-  *Reviewed related papers and devised the core idea of semi-random tagging.*  
-
----
-
-## 🛠 Skills
-![C](https://img.shields.io/badge/-C-blue?logo=c) 
-![Python](https://img.shields.io/badge/-Python-yellow?logo=python) 
-![Java](https://img.shields.io/badge/-Java-orange?logo=java)  
-![OCaml](https://img.shields.io/badge/-OCaml-lightgrey?logo=ocaml) 
-![Shell](https://img.shields.io/badge/-Shell-black?logo=gnu-bash) 
-![Assembly](https://img.shields.io/badge/-Assembly-lightblue)  
-![Linux](https://img.shields.io/badge/-Linux-grey?logo=linux)  
+**Research Interests:**  
+`Programming Language Theory` `Model Checking` `Rewriting Logic` 
