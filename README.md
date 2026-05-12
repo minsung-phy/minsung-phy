@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Minsung Lee</h1>
   <p>
-    <b>M.S./Ph.D. Student in Computer Science @ POSTECH</b><br>
+    <b>M.S./Ph.D. Student in Computer Science and Engineering  @ POSTECH</b><br>
     📫 <a href="mailto:minsunglee.cs@gmail.com">minsunglee.cs@gmail.com</a> | 🌐 <a href="https://github.com/minsung-phy">GitHub</a>
   </p>
 
